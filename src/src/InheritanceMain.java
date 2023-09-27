@@ -9,7 +9,7 @@ public class InheritanceMain {
         ford.go();
         ford.stop();
 
-        Bicycle bike = new Bicycle();
+        Vehicle bike = new Bicycle();
         bike.go();
         bike.stop();
 
